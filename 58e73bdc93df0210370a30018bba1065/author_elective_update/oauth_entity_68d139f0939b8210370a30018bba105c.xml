@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>28d139f0029b8210ef25603e9890c95c</client_id>
+        <client_secret>﷞﷟﷒f293886c93460210370a30018bba10b4﷬﷔1﷬﷭ZGvkptTorqQKOBTBNpLA9w==Cj8GfIvWszQVkR54lXPTb_9Wqt4_3d9V7upbqWmaMgWJO_0OmQjZXK7T7JJQHacYDSAo9_affKk=﷮﷯</client_secret>
+        <client_uuid>e4d139f0939b8210370a30018bba105c</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>To Do App</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 10:05:07</sys_created_on>
+        <sys_id>68d139f0939b8210370a30018bba105c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do App</sys_name>
+        <sys_package display_value="To Do" source="x_793388_to_do">58e73bdc93df0210370a30018bba1065</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">58e73bdc93df0210370a30018bba1065</sys_scope>
+        <sys_update_name>oauth_entity_68d139f0939b8210370a30018bba105c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 10:05:07</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">58e73bdc93df0210370a30018bba1065</application>
+        <file_path/>
+        <instance_id>01795209db4af19005ef172913961981</instance_id>
+        <instance_name>dev191969</instance_name>
+        <name>oauth_entity_68d139f0939b8210370a30018bba105c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>60</auth_code_lifespan><auth_url/><certificate_url/><client_id>28d139f0029b8210ef25603e9890c95c</client_id><client_secret>﷞﷟﷒f293886c93460210370a30018bba10b4﷬﷔1﷬﷭ZGvkptTorqQKOBTBNpLA9w==Cj8GfIvWszQVkR54lXPTb_9Wqt4_3d9V7upbqWmaMgWJO_0OmQjZXK7T7JJQHacYDSAo9_affKk=﷮﷯</client_secret><client_uuid>e4d139f0939b8210370a30018bba105c</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>password</default_grant_type><id_token_lifespan>86400</id_token_lifespan><login_url/><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>To Do App</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url/><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt/><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-07 10:05:07</sys_created_on><sys_id>68d139f0939b8210370a30018bba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do App</sys_name><sys_package display_value="To Do" source="x_793388_to_do">58e73bdc93df0210370a30018bba1065</sys_package><sys_policy/><sys_scope display_value="To Do">58e73bdc93df0210370a30018bba1065</sys_scope><sys_update_name>oauth_entity_68d139f0939b8210370a30018bba105c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-07 10:05:07</sys_updated_on><token_url/><type>client</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>478730907</payload_hash>
+        <record_name>To Do App</record_name>
+        <reverted_from/>
+        <source>90e73bdc93df0210370a30018bba106a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 10:05:07</sys_created_on>
+        <sys_id>42f1f9f0939b8210370a30018bba101e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1908ca7856c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 10:05:07</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>86f1f9f0219b821054a1b7036c7c921d</update_guid>
+        <update_guid_history>86f1f9f0219b821054a1b7036c7c921d:478730907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="To Do App">db337934939b8210370a30018bba1055</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 10:10:40</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>570ecc0ebc3e42b382b8e3271d8cb2d1</sys_id>
+        <sys_metadata>68d139f0939b8210370a30018bba105c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do App</sys_name>
+        <sys_package display_value="To Do" source="x_793388_to_do">58e73bdc93df0210370a30018bba1065</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">58e73bdc93df0210370a30018bba1065</sys_scope>
+        <sys_scope_delete display_value="">22295b9d76d7487487e04d8fedcee2f9</sys_scope_delete>
+        <sys_update_name>oauth_entity_68d139f0939b8210370a30018bba105c</sys_update_name>
+        <sys_update_version display_value="oauth_entity_68d139f0939b8210370a30018bba105c">42f1f9f0939b8210370a30018bba101e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 10:10:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
